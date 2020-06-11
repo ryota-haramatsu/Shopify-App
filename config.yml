@@ -1,0 +1,4 @@
+development: 
+  store: ${STORE_NAME}
+  password: ${STORE_PASSWORD}
+  theme_id: ${THEME_ID}
